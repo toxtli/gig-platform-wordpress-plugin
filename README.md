@@ -1,0 +1,1 @@
+# gig-platform-wordpress-plugin
